@@ -59,10 +59,6 @@ These are technologies I've used in projects, coursework, or hands-on learning. 
 ![Make](https://img.shields.io/badge/Make-Build_Tool-6D6D6D?style=flat-square)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
 
-### Currently Learning
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
 ## 📌 Featured Projects
 
 ### 1. Notes Assistance AI
